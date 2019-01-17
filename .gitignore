@@ -1,0 +1,17 @@
+# Eclipse
+/.classpath
+/.project
+/.settings
+/dependency-reduced-pom.xml
+
+# netbeans
+/nbproject
+
+# maven
+/target
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/

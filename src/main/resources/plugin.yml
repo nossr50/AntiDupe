@@ -1,0 +1,8 @@
+name: ${projectNameVar}
+main: ${projectSrcPath}.${projectNameVar}
+description: This is a template plugin for Spigot!
+version: ${project.version}
+author: ${projectAuthor}
+website: ${projectWebsite}
+load: STARTUP
+api-version: 1.13
